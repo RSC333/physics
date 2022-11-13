@@ -1,0 +1,3 @@
+#Program Overview
+OrbitalV - Calculates the required orbital velocity to maintain a stable orbit at different radii. Calculates for Earth and custom bodies. 
+RdMaxV - Calculates the maximum speed on flat, banked, and frictionless roads.
